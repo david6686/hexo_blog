@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>sappy5678 blog</title>
+    <link>https://sappy5678.github.io/hexo_blog/</link>
+    <atom:link href="/hexo_blog/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>blog,sappy5678</description>
+    <pubDate>Fri, 16 Mar 2018 11:36:44 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Linux 開機自啟動 Jupyter</title>
+      <link>https://sappy5678.github.io/hexo_blog/2018/03/07/Run-Jupyter-on-boot/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2018/03/07/Run-Jupyter-on-boot/</guid>
+      <pubDate>Wed, 07 Mar 2018 10:43:51 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;環境&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ubuntu 16.04 桌面版&lt;/li&gt;
+&lt;li&gt;Anaconda 3.6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;方法&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;用管理員權限使用 &lt;abbr title=&quot;一種編輯器&quot;&gt;emacs&lt;/abbr&gt;
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2018/03/07/Run-Jupyter-on-boot/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Pytorch 學習筆記</title>
+      <link>https://sappy5678.github.io/hexo_blog/2018/03/06/Pytorch-learning-get-start/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2018/03/06/Pytorch-learning-get-start/</guid>
+      <pubDate>Tue, 06 Mar 2018 14:44:40 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;資源&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;官方教學
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2018/03/06/Pytorch-learning-get-start/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>安裝 markdown-it</title>
+      <link>https://sappy5678.github.io/hexo_blog/2018/03/04/markdown-it-install/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2018/03/04/markdown-it-install/</guid>
+      <pubDate>Sun, 04 Mar 2018 11:47:58 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;起因&lt;/h1&gt;
+&lt;p&gt;由於發現預設的 render 功能有點少，因此換了一下 renderer&lt;/p&gt;
+&lt;h1&gt;安裝&lt;/h1&gt;
+&lt;p&gt;主要參考&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2018/03/04/markdown-it-install/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>測試 markdown-it</title>
+      <link>https://sappy5678.github.io/hexo_blog/2018/03/04/markdown-it-test/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2018/03/04/markdown-it-test/</guid>
+      <pubDate>Sun, 04 Mar 2018 10:46:32 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;markdown-it-footnote&lt;/h1&gt;
+&lt;p&gt;Footnote 1 link&lt;sup class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn1&quot; id=&quot;fnref1&quot;&gt;[1]&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Footnote 2
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2018/03/04/markdown-it-test/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>protobuf install</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/10/14/protobuf-install/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/10/14/protobuf-install/</guid>
+      <pubDate>Sat, 14 Oct 2017 01:37:58 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;前言&lt;/h1&gt;
+&lt;p&gt;最近在弄 caffe 的安裝，過程中需要安裝到 opencv，但opencv又需要安裝到 protobuf&lt;/p&gt;
+&lt;h1&gt;環境&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;ubuntu
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/10/14/protobuf-install/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>update-alternatives 多版本控制</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/10/09/update-alternatives/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/10/09/update-alternatives/</guid>
+      <pubDate>Mon, 09 Oct 2017 10:14:32 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;起因&lt;/h1&gt;
+&lt;p&gt;因為要安裝 cuda ,但是我的 gcc/g++ 版本已經到了6.3了,因此得想辦法降回 4.x&lt;/p&gt;
+&lt;h1&gt;解法&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://askubuntu.com/a/26518/745445&quot;
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/10/09/update-alternatives/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Tensorflow with Gpu 安裝教學</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/09/28/Tensorflow-Gpu-Install/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/09/28/Tensorflow-Gpu-Install/</guid>
+      <pubDate>Thu, 28 Sep 2017 14:34:55 GMT</pubDate>
+      <description>
+      
+        &lt;h1&gt;起因&lt;/h1&gt;
+&lt;p&gt;因為教授要求要做物體辨識, 加上實驗室的Server目前暫時不能使用,所以只好先在自己的電腦上面跑&lt;/p&gt;
+&lt;h1&gt;環境&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Ubuntu 17.04&lt;/li&gt;
+&lt;li&gt;Tensorflow 1.3&lt;/li&gt;
+&lt;li&gt;Cuda 9.0&lt;/li&gt;
+&lt;li&gt;Cudnn 7.0&lt;/li&gt;
+&lt;/ul&gt;
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/09/28/Tensorflow-Gpu-Install/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Ubuntu 調整硬碟大小教學</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/09/14/ubuntu-resize-disk/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/09/14/ubuntu-resize-disk/</guid>
+      <pubDate>Thu, 14 Sep 2017 13:13:33 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;前言&lt;/h1&gt;
+&lt;p&gt;最近在安裝 opencv 時，因為VM硬碟大小不夠，所以只好擴充硬碟大小，但是 root partition 好像沒辦法在開機時調整大小(不確定)，所以這次用 Gparted&lt;/p&gt;
+&lt;h1&gt;過程&lt;/h1&gt;
+&lt;p&gt;首先，先用 live cd
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/09/14/ubuntu-resize-disk/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>OpenCV 安裝教學</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/09/14/opencv-install/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/09/14/opencv-install/</guid>
+      <pubDate>Thu, 14 Sep 2017 08:07:33 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;前言&lt;/h1&gt;
+&lt;p&gt;因為教授要求安裝 opencv，但是因為 opencv 安裝複雜，所以在此紀錄一下&lt;/p&gt;
+&lt;h1&gt;環境要求&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;opencv3.3&lt;/li&gt;
+&lt;li&gt;ubuntu
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/09/14/opencv-install/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>[Onenote]把pdf列印在同一頁</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/08/22/Onenote-print-pdf-in-one-page/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/08/22/Onenote-print-pdf-in-one-page/</guid>
+      <pubDate>Tue, 22 Aug 2017 02:39:58 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;前因&lt;/h1&gt;
+&lt;p&gt;因為想讓Onenote的Pdf可以放在同一頁而不被切割成好幾頁，所以上網稍微找了一下方法&lt;/p&gt;
+&lt;h1&gt;解法&lt;/h1&gt;
+&lt;p&gt;到 檔案 -&amp;gt; 選項 -&amp;gt; 進階 (英文的話會是File -&amp;gt; Options -&amp;gt;
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/08/22/Onenote-print-pdf-in-one-page/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>cmder 設定</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/08/20/cmder-setting/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/08/20/cmder-setting/</guid>
+      <pubDate>Sun, 20 Aug 2017 06:33:20 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;緣由&lt;/h1&gt;
+&lt;p&gt;因為最近開始在找 windows 10 系統上好用的另列命令列工具, 在友人的推薦下使用了這個&lt;/p&gt;
+&lt;h1&gt;安裝&lt;/h1&gt;
+&lt;p&gt;由於他的安裝只是把它解壓縮而已, 在此就不多說了&lt;/p&gt;
+&lt;h1&gt;設定&lt;/h1&gt;
+&lt;h2
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/08/20/cmder-setting/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>dpkg: error processing archive *</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/08/19/dpkg-fail/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/08/19/dpkg-fail/</guid>
+      <pubDate>Sat, 19 Aug 2017 04:39:58 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1&gt;前提&lt;/h1&gt;
+&lt;p&gt;在更新時遇到&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/08/19/dpkg-fail/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>如何在github上建立gitlab的鏡像</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/08/15/gitlab-mirror-to-github/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/08/15/gitlab-mirror-to-github/</guid>
+      <pubDate>Tue, 15 Aug 2017 06:47:27 GMT</pubDate>
+      <description>
+      
+        &lt;h1&gt;起因&lt;/h1&gt;
+&lt;p&gt;因為 gitlab 上相對於 github 的可玩性跟福利都比較大所以打算逐漸遷移過去, 然而由於 github 上使用的人數依然比較多, 便想說能不能在 github 上面建立一個 gitlab 的複製版&lt;/p&gt;
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/08/15/gitlab-mirror-to-github/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>R RStudio 安裝教學</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/06/27/RStudio-install/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/06/27/RStudio-install/</guid>
+      <pubDate>Tue, 27 Jun 2017 16:22:33 GMT</pubDate>
+      <description>
+      
+        &lt;h1&gt;起因&lt;/h1&gt;
+&lt;p&gt;因為之前在 Ubuntu 上安裝 RStudio 時遇到一點問題，便把過程記錄下來，並讓其他人參考&lt;/p&gt;
+&lt;h1&gt;安裝過程&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(2017 / 06 /27  安裝)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1&gt;環境需求&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;硬體需求&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;至少 1GB RAM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;軟體需求&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ubuntu 17.04&lt;/li&gt;
+&lt;li&gt;要有root or sudo 的權限&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/06/27/RStudio-install/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>ycmd-install</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/05/27/ycmd-install/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/05/27/ycmd-install/</guid>
+      <pubDate>Sat, 27 May 2017 13:47:33 GMT</pubDate>
+      <description>
+      
+        &lt;h1&gt;什麼是ycmd&lt;/h1&gt;
+&lt;p&gt;ycmd原本是在vim上的You-Complete-Me, 而後作者把補全部分單獨分離出來做為一個後端,使其他編輯器也能享受這種神級的補全系統.&lt;br&gt;
+我目前主要是用它來補全c++,但是他還能夠補全像是go,JS之類的語言,可說是十分全能&lt;/p&gt;
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/05/27/ycmd-install/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>RancherOS安裝教學</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/04/30/RancherOS%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/04/30/RancherOS%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8/</guid>
+      <pubDate>Sun, 30 Apr 2017 16:14:25 GMT</pubDate>
+      <description>
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/04/30/RancherOS%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>gdb簡易教學</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/04/08/gdb%E7%B0%A1%E6%98%93%E6%95%99%E5%AD%B8/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/04/08/gdb%E7%B0%A1%E6%98%93%E6%95%99%E5%AD%B8/</guid>
+      <pubDate>Sat, 08 Apr 2017 09:12:01 GMT</pubDate>
+      <description>
+      
+        &lt;h1&gt;簡介&lt;/h1&gt;
+&lt;p&gt;gdb 是一種除錯的工具,經常在 Linux 環境中被使用&lt;/p&gt;
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/04/08/gdb%E7%B0%A1%E6%98%93%E6%95%99%E5%AD%B8/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Python 簡略教學</title>
+      <link>https://sappy5678.github.io/hexo_blog/2017/03/05/Python-%E7%B0%A1%E7%95%A5%E6%95%99%E5%AD%B8/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2017/03/05/Python-%E7%B0%A1%E7%95%A5%E6%95%99%E5%AD%B8/</guid>
+      <pubDate>Sun, 05 Mar 2017 02:39:58 GMT</pubDate>
+      <description>
+      
+        &lt;h1&gt;安裝&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;請先到 &lt;a href=&quot;https://www.continuum.io/downloads&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Anaconda&lt;/a&gt; 安裝Anaconda (建議 Python 3.x 版本)&lt;/li&gt;
+&lt;li&gt;再來到 &lt;a href=&quot;https://www.jetbrains.com/pycharm/download/#section=windows&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Pycharm&lt;/a&gt; 安裝 IDE (Community 版本是免費的)&lt;/li&gt;
+&lt;li&gt;安裝完成後, 打開 Pycharm 新增一個 .py 檔, 並輸入 print(“Hello World”), 之後執行看看, 看看有沒有印出 Hello World&lt;/li&gt;
+&lt;/ol&gt;
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2017/03/05/Python-%E7%B0%A1%E7%95%A5%E6%95%99%E5%AD%B8/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://sappy5678.github.io/hexo_blog/2016/06/27/hello-world/</link>
+      <guid>https://sappy5678.github.io/hexo_blog/2016/06/27/hello-world/</guid>
+      <pubDate>Mon, 27 Jun 2016 16:22:33 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          
+        
+      
+      </description>
+      
+      <comments>https://sappy5678.github.io/hexo_blog/2016/06/27/hello-world/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
